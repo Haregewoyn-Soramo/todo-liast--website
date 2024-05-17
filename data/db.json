@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Cheese, Eggs, Butter",
+      "completed": false,
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Call the bank",
+      "description": "Inquire about mortgage rates",
+      "completed": false,
+      "createdAt": "2024-01-02T11:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Schedule dentist appointment",
+      "description": "Routine check-up",
+      "completed": true,
+      "createdAt": "2024-01-03T12:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Finish project report",
+      "description": "Complete the final draft of the project report",
+      "completed": false,
+      "createdAt": "2024-01-04T13:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Plan weekend trip",
+      "description": "Research and book activities for the weekend getaway",
+      "completed": false,
+      "createdAt": "2024-01-05T14:00:00Z"
+    },
+    {
+      "id": "67f0",
+      "title": "Call to family"
+    }
+  ]
+}
